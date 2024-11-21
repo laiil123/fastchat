@@ -1,0 +1,22 @@
+【fastchat】INFO 2024-11-21 21:15:22 D:\app\fastchat\api\application\utils\middleware.py:22 path=/users/login status_code=200 timer=0.38ms
+【fastchat】INFO 2024-11-21 21:15:23 D:\app\fastchat\api\application\utils\middleware.py:22 path=/users/login status_code=200 timer=0.25ms
+【fastchat】INFO 2024-11-21 21:15:26 D:\app\fastchat\api\application\utils\middleware.py:22 path=/api status_code=200 timer=0.26ms
+【fastchat】INFO 2024-11-21 21:21:49 D:\app\fastchat\api\application\utils\middleware.py:22 path=/exception status_code=422 timer=0.70ms
+【fastchat】INFO 2024-11-21 21:44:45 D:\app\fastchat\api\application\utils\middleware.py:22 path=/exception status_code=200 timer=1.37ms
+【fastchat】INFO 2024-11-21 21:45:31 D:\app\fastchat\api\application\utils\middleware.py:22 path=/exception status_code=200 timer=0.64ms
+【fastchat】ERROR 2024-11-21 21:47:27 D:\app\fastchat\api\application\utils\exceptions.py:19 发生异常：name 'username' is not defined
+【fastchat】INFO 2024-11-21 21:47:27 D:\app\fastchat\api\application\utils\middleware.py:22 path=/exception status_code=200 timer=1.71ms
+【fastchat】INFO 2024-11-21 21:48:09 D:\app\fastchat\api\application\utils\middleware.py:22 path=/exception status_code=200 timer=0.66ms
+【fastchat】INFO 2024-11-21 21:48:24 D:\app\fastchat\api\application\utils\middleware.py:22 path=/exception status_code=200 timer=1.15ms
+【fastchat】INFO 2024-11-21 21:48:25 D:\app\fastchat\api\application\utils\middleware.py:22 path=/exception status_code=200 timer=0.62ms
+【fastchat】INFO 2024-11-21 21:48:26 D:\app\fastchat\api\application\utils\middleware.py:22 path=/exception status_code=200 timer=0.53ms
+【fastchat】INFO 2024-11-21 21:48:38 D:\app\fastchat\api\application\utils\middleware.py:22 path=/exception status_code=200 timer=0.49ms
+【fastchat】INFO 2024-11-21 21:48:38 D:\app\fastchat\api\application\utils\middleware.py:22 path=/exception status_code=200 timer=0.47ms
+【fastchat】INFO 2024-11-21 21:48:39 D:\app\fastchat\api\application\utils\middleware.py:22 path=/exception status_code=200 timer=0.70ms
+【fastchat】INFO 2024-11-21 21:48:40 D:\app\fastchat\api\application\utils\middleware.py:22 path=/exception status_code=200 timer=0.44ms
+【fastchat】INFO 2024-11-21 21:48:40 D:\app\fastchat\api\application\utils\middleware.py:22 path=/exception status_code=200 timer=0.54ms
+【fastchat】INFO 2024-11-21 21:48:43 D:\app\fastchat\api\application\utils\middleware.py:22 path=/exception status_code=200 timer=0.48ms
+【fastchat】INFO 2024-11-21 21:48:44 D:\app\fastchat\api\application\utils\middleware.py:22 path=/exception status_code=200 timer=0.48ms
+【fastchat】INFO 2024-11-21 21:48:49 D:\app\fastchat\api\application\utils\middleware.py:22 path=/exception status_code=200 timer=0.98ms
+【fastchat】ERROR 2024-11-21 21:49:45 D:\app\fastchat\api\application\utils\exceptions.py:19 发生异常：name 'username' is not defined
+【fastchat】INFO 2024-11-21 21:49:45 D:\app\fastchat\api\application\utils\middleware.py:22 path=/exception status_code=200 timer=0.93ms
